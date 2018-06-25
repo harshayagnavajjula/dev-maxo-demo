@@ -45,16 +45,12 @@
   
   <distributionManagement>
 	<repository>
-		<id>deploymentRepo</id>
-		<name>Internal Releases</name>
-		<url>http://35.193.152.132:8081/repository/maven-releases/</url>
+		<id>maven-releases</id>
+		<name>maven-releases</name>
+		<url>http://18.217.194.252:8081/repository/maven-central/</url>
 	</repository>
  
-	<snapshotRepository>
-		<id>deploymentRepo</id>
-		<name>Internal Releases</name>
-		<url>http://35.193.152.132:8081/repository/maven-snapshots/</url>
-	</snapshotRepository>
+	
 
 </distributionManagement>
   
