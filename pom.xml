@@ -49,10 +49,7 @@
 		<name>maven-releases</name>
 		<url>http://18.217.194.252:8081/repository/maven-releases/</url>
 	</repository>
- 
-	
-
-</distributionManagement>
+ </distributionManagement>
   
 </project>
 
