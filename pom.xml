@@ -47,7 +47,7 @@
 	<repository>
 		<id>maven-releases</id>
 		<name>maven-releases</name>
-		<url>http://18.217.194.252:8081/repository/maven-central/</url>
+		<url>http://18.217.194.252:8081/repository/maven-releases/</url>
 	</repository>
  
 	
